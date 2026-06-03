@@ -240,6 +240,36 @@ SAIKET/
 ```
 
 ---
+---
+
+## Project Screenshots
+
+### Dataset Preview
+![Dataset Preview](screenshots/dataset_preview.png)
+
+### Data Preparation
+![Data Preparation](screenshots/data_preparation.png)
+
+### Train-Test Split
+![Train Test Split](screenshots/train_test_split.png)
+
+### Feature Selection
+![Feature Selection](screenshots/feature_selection.png)
+
+### Model Comparison
+![Model Comparison](screenshots/model_comparison.png)
+
+### Model Training
+![Model Training](screenshots/model_training.png)
+
+### Saved Model
+![Saved Model](screenshots/saved_model.png)
+
+### Model Evaluation
+![Model Evaluation](screenshots/model_evaluation.png)
+
+
+---
 
 # Conclusion
 
