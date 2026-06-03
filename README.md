@@ -2,7 +2,7 @@
 
 ## Internship Project
 
-This project was completed as part of my first internship assignment. The objective of the project is to analyze customer churn in a telecommunications company and build a machine learning model that can predict whether a customer is likely to leave the company.
+This project was completed as part of my  internship assignment. The objective of the project is to analyze customer churn in a telecommunications company and build a machine learning model that can predict whether a customer is likely to leave the company.
 
 Customer churn is a major challenge for telecom companies because losing existing customers can directly impact revenue and business growth. By identifying customers who are likely to churn, companies can take preventive actions and improve customer retention.
 
@@ -281,6 +281,6 @@ This project helped me gain practical experience in data preprocessing, feature 
 
 # Author
 
-Rupesh Prakash Mane
+Rupesh Prakash Mane.
 
-Saiket Syatems Internship Project – Customer Churn Analysis and Prediction
+SAIKET systems Internship Project – Customer Churn Analysis and Prediction
