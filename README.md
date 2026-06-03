@@ -20,33 +20,38 @@ The main objectives of this project are:
 * Evaluate the model using various performance metrics.
 
 ---
+## Dataset Features
 
-## Dataset Information
+The dataset contains the following customer attributes:
 
-The dataset contains customer information such as:
+- customerID
+- gender
+- SeniorCitizen
+- Partner
+- Dependents
+- tenure
+- PhoneService
+- MultipleLines
+- InternetService
+- OnlineSecurity
+- OnlineBackup
+- DeviceProtection
+- TechSupport
+- StreamingTV
+- StreamingMovies
+- Contract
+- PaperlessBilling
+- PaymentMethod
+- MonthlyCharges
+- TotalCharges
+- Churn
 
-* Gender
-* Senior Citizen Status
-* Partner
-* Dependents
-* Tenure
-* Phone Service
-* Internet Service
-* Online Security
-* Tech Support
-* Contract Type
-* Payment Method
-* Monthly Charges
-* Total Charges
-* Churn Status
-
-Target Variable:
+### Target Variable
 
 **Churn**
 
-* 1 = Customer Churned
-* 0 = Customer Retained
-
+- 1 = Customer Churned
+- 0 = Customer Retained
 ---
 
 # Task 1: Data Preparation
